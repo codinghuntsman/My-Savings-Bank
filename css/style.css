@@ -5,6 +5,9 @@
     width: 55px;
     height: 60px;
 }
+div img{
+    height: 675px;
+}
 h1{
     color: #f19d00;
     margin-bottom: 0;
@@ -60,11 +63,10 @@ input {
     padding: 0;
     margin-right: 10px;
 }
-.saved-button{
+.save-button{
     width: 125px;
     border-radius: 20px;
     border: none;
-    /* margin-left: 0; */
     background-color: #9021f8;
     color: white;
     font-size: 1.1rem;
